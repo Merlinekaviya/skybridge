@@ -1,7 +1,7 @@
-# Ecommerce Carousel Example
+# Browse Catalog Example
 
 ## What This Example Showcases
-This "Ecommerce Carousel" example demonstrates key Skybridge capabilities:
+This "Browse Catalog" example demonstrates key Skybridge capabilities:
 - **Interactive Widget Rendering**: A React-based widget that displays an interactive product carousel directly in AI conversations
 - **Tool Info Access**: Widgets access tool input, output, and metadata via `useToolInfo()` hook
 - **Theme Support**: Adapts to light/dark mode using the `useLayout()` hook
